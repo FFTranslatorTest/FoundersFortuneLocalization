@@ -3,7 +3,8 @@
 	// MAIN MENU
 	"newGame": {
 		"english": "New Game",
-		"german": "Neues Spiel"
+		"german": "Neues Spiel",
+		"spanish": "Nuevo Juego"
 	},
 	"saveGame": {
 		"english": "Save Game",
